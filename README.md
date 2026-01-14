@@ -1,4 +1,4 @@
-# RAG API POC
+# RAG Project
 
 OpenAI-compatible FastAPI service that performs retrieval‑augmented generation (RAG) over ingested text using Qdrant and local embeddings.
 
